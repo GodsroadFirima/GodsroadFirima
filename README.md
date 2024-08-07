@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 🌱 I’m currently learning ..Javascript, Nodejs, React, Express etc.
+- 👯 I’m looking to collaborate on ..
+- 💬 Ask me about ..
+- 📫 How to reach me: ..
+- 😄 Pronouns: .. HE/HIM
+- ⚡ Fun fact: ..
 
 <!--
 **GodsroadFirima/GodsroadFirima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
