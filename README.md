@@ -3,7 +3,7 @@
 - 😄 Pronouns: .. HE/HIM
 - 👯 I’m looking to collaborate on ..
 - 💬 Ask me about ..
-
+- 😄 Pronouns: He/Him
   
 <!--
 **GodsroadFirima/GodsroadFirima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
